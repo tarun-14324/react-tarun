@@ -1,0 +1,20 @@
+#btnadd {
+  border-radius: 80px;
+  margin: 310px;
+  justify-content: center;
+  align-items: center;
+  size: "sm";
+}
+.container {
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+  text-align: center;
+  margin-top: 0;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+
+  height: max-content;
+
+  overflow: hidden;
+}

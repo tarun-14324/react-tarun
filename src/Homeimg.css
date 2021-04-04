@@ -1,0 +1,20 @@
+.bgimg {
+  align-items: center;
+  max-height: height;
+
+  max-width: width;
+  overflow: hidden;
+}
+#features {
+  padding: 7% 12%;
+  text-align: center;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: blue;
+}
