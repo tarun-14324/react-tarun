@@ -6,7 +6,7 @@ class About extends Component {
     return (
         <div className="about">
 
-<h1> Todo App:</h1>
+<h1 id="title"> Todo App:</h1>
 
 
   
