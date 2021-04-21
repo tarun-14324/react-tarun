@@ -2,8 +2,12 @@ import React, { Component } from "react";
 
 
 
+
 import NaviBar from './Navi.js'
 import './App.css'
+
+
+
 
 
 
@@ -15,14 +19,7 @@ class App extends Component {
       
   <div>
          <NaviBar></NaviBar>
-        
-
-
-
-
-         
-
-         </div>
+       </div>
     ) 
   }   
     };

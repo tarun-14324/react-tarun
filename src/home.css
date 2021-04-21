@@ -1,8 +1,14 @@
 #btns {
   margin: 0 5px;
-  border-radius: 20px;
+  width: max-content;
+  border-radius: 80px;
   text-decoration: none;
   color: rgb(247, 247, 247);
+}
+.contact {
+  border-radius: 30px;
+  margin: 10px;
+  text-decoration: none;
 }
 .nav-car {
   max-width: max-content;
@@ -12,9 +18,11 @@
 #nav {
   margin-right: 300px;
 }
+.pad {
+  padding-top: 40px;
+}
 #bg {
-  background-image: url("./image3.jpg");
-  height: 600px;
+  background-size: 600% 100%;
   background-repeat: "no-repeat";
 }
 .nav-link {
@@ -96,4 +104,41 @@
   background: #9b59b6;
 
   background: radial-gradient(at center, #3498db, #9b59b6);
+}
+.divi {
+  padding-top: 40px;
+  text-align: center;
+  vertical-align: middle;
+  height: auto;
+  background: linear-gradient(270deg, #12dea9, #b047f3);
+}
+.divitwo {
+  padding-top: 100px;
+  text-align: center;
+  vertical-align: middle;
+  height: 600px;
+  background: linear-gradient(270deg, #d7e4e1, #efa12d);
+}
+.conatainertwo {
+  background-image: linear-gradient(
+    to right top,
+    #d16ba5,
+    #c777b9,
+    #ba83ca,
+    #aa8fd8,
+    #9a9ae1,
+    #8aa7ec,
+    #79b3f4,
+    #69bff8,
+    #52cffe,
+    #41dfff,
+    #46eefa,
+    #5ffbf1
+  );
+  padding-top: 100px;
+  height: 600px;
+  text-align: center;
+}
+.compo {
+  padding-left: 40px;
 }

@@ -36,9 +36,7 @@ export default function Login() {
 					onChange={(e) => setPassword(e.target.value)}
 				/>
 				<br />
-				<button type="submit" className="btn btn-primary" >
-					Login
-				</button>
+				<a href='/Home' id="btns">Login</a>
    
 				{isLoggedin !== null }
 			</form>

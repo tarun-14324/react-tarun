@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik&display=swap");
+
+.row {
+  padding-top: 100px;
+}
+.column {
+  margin-right: 40px;
+}
+
+.column {
+  margin-left: 40px;
+}
